@@ -1,0 +1,9 @@
+.app-layout {
+  display: flex;
+}
+
+.main-content {
+  margin-left: 256px; /* Debe coincidir con el width del sidebar */
+  width: 100%;
+  min-height: 100dvh;
+}
