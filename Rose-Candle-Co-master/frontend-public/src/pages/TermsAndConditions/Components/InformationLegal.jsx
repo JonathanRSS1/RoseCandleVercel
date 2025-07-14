@@ -14,7 +14,7 @@ const LegalInformation = () => {
         <span className="font-normal">
           tu confianza es lo más importante para nosotros. Por eso, ponemos a tu
           disposición toda la información legal relacionada con el uso de nuestro sitio web,
-          nuestras políticas de privacidad, condiciones de uso y el tratamiento de Cookies.
+          nuestras políticas de privacidad, condiciones de uso y el tratamidfdfdento de Cookies.
           Queremos asegurarnos de que tengas una experiencia segura, clara y satisfactoria cada
           vez que nos visitas o realizas una compra. <br /><br />
           Si tienes alguna duda adicional, no dudsdsdsddes en contactarnos.
