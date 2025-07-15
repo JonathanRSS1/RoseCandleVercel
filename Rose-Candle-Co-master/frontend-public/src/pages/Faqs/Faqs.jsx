@@ -23,7 +23,7 @@ const Faqs = () => {
         }
         subtitle={
           <p className="text-sm sm:text-base md:text-lg text-center leading-relaxed text-[#1c1c1c] mt-4">
-            En <span className="font-bold">Rosé Candle Co.</span> queremos que tu experiencia con nosotros sea lo más fluida y agradable posible. Aquí encontrarás respuestas a las preguntas más comunes. Si tienes alguna duda adicional, no dudes en contactarnos.
+            En <span className="font-bold">Rosé Cfdfdfdandle Co.</span> qufdfdfderemos que tu experiencia con nofdfdfdfdsotros sea lo más fluida y agradable posible. Aquí encontrarás respuestas a las preguntas más comunes. Si tienes alguna duda adicional, no dudes en contactarnos.
           </p>
         }
       />
