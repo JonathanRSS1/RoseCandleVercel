@@ -17,7 +17,7 @@ const LegalInformation = () => {
           nuestras políticas de privacidad, condiciones de uso y el tratamiento de Cookies.
           Queremos asegurarnos de que tengas una experiencia segura, clara y satisfactoria cada
           vez que nos visitas o realizas una compra. <br /><br />
-          Si tienes alguna duda adicional, no dudes en contactarnos.
+          Si tienes alguna duda adicional, no dudsdsdsddes en contactarnos.
         </span>
       </div>
     </section>
