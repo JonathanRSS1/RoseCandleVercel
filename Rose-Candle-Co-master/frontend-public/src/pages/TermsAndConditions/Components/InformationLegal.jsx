@@ -12,7 +12,7 @@ const LegalInformation = () => {
         <span className="font-normal">En </span>
         <span className="font-bold">Rosé Candle Co., </span>
         <span className="font-normal">
-          tu confianza es lo más importante para nosotros. Por eso, ponemos a tu
+          tu confianza es lo más importante para nosotdsdsdsdros. Por eso, ponemos a tu
           disposición toda la información legal relacionada con el uso de nuestro sitio web,
           nuestras políticas de privacidad, condiciones de uso y el tratamidfdfdento de Cookies.
           Queremos asegurarnos de que tengas una experiencia segura, clara y satisfactoria cada
